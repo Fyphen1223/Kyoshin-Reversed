@@ -5,7 +5,7 @@ Base URL: http://www.kmoni.bosai.go.jp/
 
 # Introduction
 
-You can get these images from the information of 10 hours ago, later will be 404.
+These images are available up to 10 hours ago, and information older than that will be 404.
 
 Method: GET
 
