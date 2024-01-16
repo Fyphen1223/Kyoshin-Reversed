@@ -37,6 +37,26 @@ URL:
 
 http://www.kmoni.bosai.go.jp/data/map_img/ScaleImg/nied_vcmap_b_w_scale.gif
 
+## PSWave
+
+URL:
+
+http://www.kmoni.bosai.go.jp/data/map_img/PSWaveImg/eew/20240116/20240116104414.eew.gif
+
+URL Format:
+
+http://www.kmoni.bosai.go.jp/data/map_img/PSWaveImg/eew/YYYYMMDD/YYYYMMDDHHMMSS.eew.gif
+
+## Estimated Shindo (Only surface)
+
+URL:
+
+http://www.kmoni.bosai.go.jp/data/map_img/EstShindoImg/eew/20240116/20240116104702.eew.gif
+
+URL Format:
+
+http://www.kmoni.bosai.go.jp/data/map_img/EstShindoImg/eew/YYYYMMDD/YYYYMMDDHHMMSS.eew.gif
+
 ## Realtime Shindo Surface
 
 URL: 
@@ -48,6 +68,16 @@ http://www.kmoni.bosai.go.jp/data/map_img/RealTimeImg/jma_s/20240116/20240116100
 URL Format:
 
 http://www.kmoni.bosai.go.jp/data/map_img/RealTimeImg/jma_s/YYYYMMDD/YYYYMMDDHHMMSS.jma_s.gif
+
+## Realtime Shindo Borehole
+
+URL:
+
+http://www.kmoni.bosai.go.jp/data/map_img/RealTimeImg/jma_b/20240116/20240116104824.jma_b.gif
+
+URL Format:
+
+http://www.kmoni.bosai.go.jp/data/map_img/RealTimeImg/jma_s/YYYYMMDD/YYYYMMDDHHMMSS.jma_b.gif
 
 ## PGA Surface
 
