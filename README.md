@@ -13,6 +13,30 @@ Headers:
 
 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
 
+## Basemap
+
+URL:
+
+http://www.kmoni.bosai.go.jp/data/map_img/CommonImg/base_map_w.gif
+
+## Shindo Scale
+
+URL:
+
+http://www.kmoni.bosai.go.jp/data/map_img/ScaleImg/nied_jma_s_w_scale.gif
+
+## PGA, PGV, PGD Scale
+
+URL:
+
+http://www.kmoni.bosai.go.jp/data/map_img/ScaleImg/nied_acmap_b_w_scale.gif
+
+## Response xHz Scale
+
+URL:
+
+http://www.kmoni.bosai.go.jp/data/map_img/ScaleImg/nied_vcmap_b_w_scale.gif
+
 ## Realtime Shindo Surface
 
 URL: 
